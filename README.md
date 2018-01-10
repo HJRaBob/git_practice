@@ -20,3 +20,12 @@
     * `git log -p`: 변경 내용까지 같이 확인
 
     * `git show head`: `git log -p`를 head만 보여줌
+
+    * `git reflog`: 돌아갈 수 있는 commit head 확인
+
+    * `git checkout`: 지정한 commit 또는 branch 으로 이동 
+
+## 충돌 상황
+
+1. 집에서 수정한 파일을 pull 하지 않고 수정을 한 경우
+> 태깅을 확인하여 코드를 알맞은 형태로 고치고 태깅 삭제
