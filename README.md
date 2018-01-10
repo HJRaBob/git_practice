@@ -19,3 +19,4 @@
 * `git log`: commit 기록 확인
     * `git log -p`: 변경 내용까지 같이 확인
 
+    * `git show head`: `git log -p`를 head만 보여줌
